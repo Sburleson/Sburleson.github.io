@@ -5,6 +5,7 @@ background-color: blue;
 ul{
 background-color: blue;
 display: flex;
+text-align: justify;
 
 }
 
