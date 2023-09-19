@@ -2,6 +2,11 @@ main{
     background-color: lightblue;
 }
 
+header{
+    font-size: xx-large;
+    color: blue;
+}
+
 .List{
     background-color: blue;
     margin: 10px;
