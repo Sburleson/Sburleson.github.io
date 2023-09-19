@@ -1,14 +1,42 @@
-#List{
-background-color: blue;
-}
-
-ul{
-background-color: blue;
-display: flex;
-text-align: justify;
-
-}
-
 main{
     background-color: lightblue;
 }
+
+.List{
+    background-color: blue;
+    margin: 10px;
+    margin-right: 500px;
+    border: solid 2px black;    
+    
+    }
+    
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+
+img{
+    border:solid 5px red;
+    border-style:dotted;
+    width: 200;
+    height:200;
+}
+
+h2{
+    font: 'Gill Sans';
+    font-style: italic;
+
+}
+
+#aboutme{
+    background-color: grey;
+    color: white;
+}
+
+footer{
+    background-color: grey;
+}
+#copyright{
+    color: blue ;
+}
+
